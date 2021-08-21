@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-formik-field-array-poc/static/css/main.6370deb3.chunk.css",
+    "main.js": "/react-formik-field-array-poc/static/js/main.995ee588.chunk.js",
+    "main.js.map": "/react-formik-field-array-poc/static/js/main.995ee588.chunk.js.map",
+    "runtime-main.js": "/react-formik-field-array-poc/static/js/runtime-main.ccfa6c44.js",
+    "runtime-main.js.map": "/react-formik-field-array-poc/static/js/runtime-main.ccfa6c44.js.map",
+    "static/js/2.9c40c8ae.chunk.js": "/react-formik-field-array-poc/static/js/2.9c40c8ae.chunk.js",
+    "static/js/2.9c40c8ae.chunk.js.map": "/react-formik-field-array-poc/static/js/2.9c40c8ae.chunk.js.map",
+    "static/js/3.56316747.chunk.js": "/react-formik-field-array-poc/static/js/3.56316747.chunk.js",
+    "static/js/3.56316747.chunk.js.map": "/react-formik-field-array-poc/static/js/3.56316747.chunk.js.map",
+    "index.html": "/react-formik-field-array-poc/index.html",
+    "static/css/main.6370deb3.chunk.css.map": "/react-formik-field-array-poc/static/css/main.6370deb3.chunk.css.map",
+    "static/js/2.9c40c8ae.chunk.js.LICENSE.txt": "/react-formik-field-array-poc/static/js/2.9c40c8ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccfa6c44.js",
+    "static/js/2.9c40c8ae.chunk.js",
+    "static/css/main.6370deb3.chunk.css",
+    "static/js/main.995ee588.chunk.js"
+  ]
+}
