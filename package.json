@@ -1,4 +1,5 @@
 {
+  "homepage": "https://shahsagarm.github.io/react-formik-field-array-poc",
   "name": "react-formik-field-array-poc",
   "version": "1.0.0",
   "private": true,
@@ -19,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -41,7 +44,9 @@
   },
   "description": "This poc demonstrates how to work with array fields in Formik including basic validations.",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
   "keywords": [
     "react",
     "formik",
