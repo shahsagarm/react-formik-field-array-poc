@@ -24,7 +24,7 @@ This poc uses below third party libraries and thier installation, if needed to i
 | ------ | ------ |
 | Formik | npm install formik --save |
 | Yup | npm install yup --save |
-| React Bootstrap| npm install @material-ui/core |
+| React Bootstrap| npm install react-bootstrap@1.6.1 --save |
 
 ## License
 MIT
