@@ -1,0 +1,22 @@
+body {
+  background: #4568DC;
+  background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);
+  background: linear-gradient(to right, #B06AB3, #4568DC);
+}
+
+.card {
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+}
+
+.required {
+  color: crimson;
+}
+
+.green {
+  color: green;
+}
+
+.pretty-json {
+  color: #593196;
+  font-size: 1.2rem;
+}
