@@ -3,7 +3,7 @@
 > This poc demonstrates how to work with array fields in Formik including basic validations.
 
 ## Technologies
-Timezone Play uses below open source libraries:
+This poc uses below open source libraries:
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Formik](https://formik.org/) - Build forms in React, without the tears
 - [Yup](https://github.com/jquense/yup) - Dead simple Object schema validation
