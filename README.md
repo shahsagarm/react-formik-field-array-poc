@@ -2,6 +2,8 @@
 
 > This poc demonstrates how to work with array fields in Formik including basic validations.
 
+![](https://raw.githubusercontent.com/shahsagarm/react-formik-field-array-poc/master/preview.gif)
+
 ## Technologies
 This poc uses below open source libraries:
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces
